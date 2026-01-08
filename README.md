@@ -67,6 +67,7 @@ Speed 80% → 8
 Speed 90% → 9
 
 Speed 100% → q
+
 -
 -
 Forward -> F 
